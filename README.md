@@ -1,4 +1,4 @@
-(Live){https://hardcore-thompson-5e415f.netlify.app/}
+[Live](https://hardcore-thompson-5e415f.netlify.app/)
 
 
 # Getting Started with Create React App
